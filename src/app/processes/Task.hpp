@@ -1,3 +1,5 @@
+// move is used in ownership transfer to different by actually moving the file to that class rather than creating a copy of it.
+
 #ifndef TASK_HPP
 #define TASK_HPP
 
