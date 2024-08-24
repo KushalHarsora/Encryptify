@@ -8,6 +8,7 @@
 // Unix-specific includes
 #include <sys/wait.h>
 #endif
+#include "../encryptDecrypt/Cryption.hpp"
 
 
 ProcessManagement::ProcessManagement() {}
